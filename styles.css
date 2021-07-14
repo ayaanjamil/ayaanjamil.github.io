@@ -1,0 +1,66 @@
+@font-face {
+    src: url(Assets/SourceCodePro-Bold.ttf);
+    font-family: bit;
+}
+
+*{
+    color : #a6a6a6;
+    font-family: bit;
+}
+
+.mainheader {
+    padding: 10px;
+    text-align: center;
+}
+
+.body{
+    background-image: url(Assets/background.jpg);
+    background-size: cover;
+    font-size: larger;
+}
+
+.nav dt{
+    padding: 10pt;
+    display: inline;
+}
+
+.nav a{
+    text-decoration: none
+}
+
+.container{
+    max-width: 1000;
+    padding : 0 3em;
+    margin : 0 auto;
+}
+
+.about-image{
+    float : right;
+    height : 400px;
+    width : 400px;
+    margin-left: 20px;
+}
+
+.title{
+    margin-top: 100px;
+}
+
+.title2{
+    margin-top: 100px;
+    text-align: center;
+}
+
+li{
+    padding: 10px ;
+}
+
+.contactimage{
+    height : 200px;
+    width: 200px;
+}
+
+.icons-social i{
+    text-align: center;
+	font-size: 6em;
+
+}
