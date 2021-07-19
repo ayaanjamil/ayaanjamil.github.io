@@ -17,6 +17,7 @@
     background-image: url(Assets/2117-min.jpg);
     background-size: cover;
     font-size: larger;
+	cursor: url('Assets/meresized.png'), auto;
 }
 
 .nav dt{
